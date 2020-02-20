@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 10\Cards\Generics\bin\Debug\netcoreapp2.1\Generics.deps.json
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 10\Cards\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 10\Cards\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.dev.json
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 10\Cards\Generics\bin\Debug\netcoreapp2.1\Generics.dll
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 10\Cards\Generics\bin\Debug\netcoreapp2.1\Generics.pdb
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 10\Cards\Generics\obj\Debug\netcoreapp2.1\Generics.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 10\Cards\Generics\obj\Debug\netcoreapp2.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 10\Cards\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 10\Cards\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 10\Cards\Generics\obj\Debug\netcoreapp2.1\Generics.dll
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 10\Cards\Generics\obj\Debug\netcoreapp2.1\Generics.pdb
