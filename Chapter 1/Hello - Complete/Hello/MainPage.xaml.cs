@@ -30,6 +30,7 @@ namespace Hello
 
         private void okClick(object sender, RoutedEventArgs e)
         {
+			//show a dialogue box that displays a hello message and whatever was typed in the username textox as a name
             MessageDialog msg = new MessageDialog("Hello " + userName.Text);
             msg.ShowAsync();
         }
