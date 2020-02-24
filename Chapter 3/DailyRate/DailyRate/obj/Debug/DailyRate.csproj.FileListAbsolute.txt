@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\DailyRate\DailyRate\bin\Debug\DailyRate.exe.config
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\DailyRate\DailyRate\bin\Debug\DailyRate.exe
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\DailyRate\DailyRate\bin\Debug\DailyRate.pdb
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\DailyRate\DailyRate\obj\Debug\DailyRate.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\DailyRate\DailyRate\obj\Debug\DailyRate.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\DailyRate\DailyRate\obj\Debug\DailyRate.exe
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\DailyRate\DailyRate\obj\Debug\DailyRate.pdb
