@@ -1,0 +1,46 @@
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\bin\x86\Debug\DeliveryService.dll
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\bin\x86\Debug\DeliveryService.pdb
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\bin\x86\Debug\DeliveryService.pri
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\bin\x86\Debug\DataTypes.dll
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\bin\x86\Debug\DataTypes.pdb
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\bin\x86\Debug\DataTypes.pri
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\DeliveryService.csprojResolveAssemblyReference.cache
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\DeliveryService.dll
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\DeliveryService.pdb
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\priconfig.xml
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\priconfig.xml.intermediate
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\layout.resfiles
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\layout.resfiles.intermediate
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\resources.resfiles
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\resources.resfiles.intermediate
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\pri.resfiles
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\pri.resfiles.intermediate
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\qualifiers.txt
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Work In Progress\MS Press\CSharp Step By Step 9th Edition\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\bin\x86\Debug\DeliveryService.dll
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\bin\x86\Debug\DeliveryService.pdb
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\bin\x86\Debug\DeliveryService.pri
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\bin\x86\Debug\DataTypes.dll
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\bin\x86\Debug\DataTypes.pdb
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\bin\x86\Debug\DataTypes.pri
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\DeliveryService.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\DeliveryService.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\DeliveryService.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\DeliveryService.dll
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\DeliveryService.pdb
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\priconfig.xml
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\resources.resfiles
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\pri.resfiles
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\qualifiers.txt
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 20\Delegates\DeliveryService\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

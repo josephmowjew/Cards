@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 24\PLINQ\PLINQ\bin\Debug\PLINQ.exe.config
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 24\PLINQ\PLINQ\bin\Debug\PLINQ.exe
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 24\PLINQ\PLINQ\bin\Debug\PLINQ.pdb
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 24\PLINQ\PLINQ\obj\Debug\PLINQ.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 24\PLINQ\PLINQ\obj\Debug\PLINQ.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 24\PLINQ\PLINQ\obj\Debug\PLINQ.exe
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 24\PLINQ\PLINQ\obj\Debug\PLINQ.pdb

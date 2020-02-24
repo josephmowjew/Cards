@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Cards
+{
+    class Hand
+    {
+        public const int HandSize = 13;
+        private List<PlayingCard> cards = new List<PlayingCard>(HandSize);
+     
+
+        public void AddCardToHand(PlayingCard cardDealt)
+        {
+            if (this.cards.Count >= HandSize)
+            {
+                throw new ArgumentException("Too many cards");
+            }
+            //ad the card to the list of cards in a given hand
+            this.cards.Add(cardDealt);
+            
+        }
+
+        public override string ToString()
+        {
+            string result = "";
+            foreach (PlayingCard card in this.cards)
+            {
+                result += card.ToString() + "\n";
+            }
+
+            return result;
+        }
+    }
+}

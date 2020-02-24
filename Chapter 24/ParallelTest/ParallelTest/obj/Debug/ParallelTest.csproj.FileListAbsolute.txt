@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 24\ParallelTest\ParallelTest\bin\Debug\ParallelTest.exe.config
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 24\ParallelTest\ParallelTest\bin\Debug\ParallelTest.exe
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 24\ParallelTest\ParallelTest\bin\Debug\ParallelTest.pdb
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 24\ParallelTest\ParallelTest\obj\Debug\ParallelTest.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 24\ParallelTest\ParallelTest\obj\Debug\ParallelTest.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 24\ParallelTest\ParallelTest\obj\Debug\ParallelTest.exe
+C:\Users\LENOVO\Downloads\Compressed\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 24\ParallelTest\ParallelTest\obj\Debug\ParallelTest.pdb
