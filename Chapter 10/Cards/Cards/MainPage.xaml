@@ -81,7 +81,7 @@
                 <RowDefinition Height="15*"/>
                 <RowDefinition Height="2*"/>
             </Grid.RowDefinitions>
-            <TextBlock Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Text="Card Game" FontSize="48" FontFamily="Segoe UI Light"/>
+            <TextBlock Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Card Game" FontSize="48" FontFamily="Segoe UI Black" SelectionChanged="TextBlock_SelectionChanged" FontWeight="Bold" Foreground="#FFBD0A0A"/>
             <Grid Grid.Row="3">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="*"/>
@@ -102,19 +102,19 @@
                 <TextBlock Grid.Row="0" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Text="South" FontSize="28" FontFamily="Segoe UI Semibold" />
                 <TextBlock Grid.Row="0" Grid.Column="5" HorizontalAlignment="Center" VerticalAlignment="Center" Text="East" FontSize="28" FontFamily="Segoe UI Semibold" />
                 <TextBlock Grid.Row="0" Grid.Column="7" HorizontalAlignment="Center" VerticalAlignment="Center" Text="West" FontSize="28" FontFamily="Segoe UI Semibold" />
-                <Border Grid.Row="1" Grid.Column="1" MinWidth="200" Style="{StaticResource BorderStyle}">
+                <Border Grid.Row="1" Grid.Column="1" MinWidth="200" Style="{StaticResource BorderStyle}" Background="#FFBAF7F2">
                     <TextBlock x:Name="north" Margin="10" HorizontalAlignment="Left" FontSize="22" FontFamily="Segoe UI Light" />
                 </Border>
                 <TextBlock Grid.Row="1" Grid.Column="2" MinWidth="30" />
-                <Border Grid.Row="1" Grid.Column="3" MinWidth="200" Style="{StaticResource BorderStyle}">
+                <Border Grid.Row="1" Grid.Column="3" MinWidth="200" Style="{StaticResource BorderStyle}" Background="#FFE7FFC4">
                     <TextBlock x:Name="south" Margin="10" HorizontalAlignment="Left" FontSize="22" FontFamily="Segoe UI Light" />
                 </Border>
                 <TextBlock Grid.Row="1" Grid.Column="4" MinWidth="30" />
-                <Border Grid.Row="1" Grid.Column="5" MinWidth="200" Style="{StaticResource BorderStyle}">
+                <Border Grid.Row="1" Grid.Column="5" MinWidth="200" Style="{StaticResource BorderStyle}" Background="#FFFFC4FC">
                     <TextBlock x:Name="east" Margin="10" HorizontalAlignment="Left" FontSize="22" FontFamily="Segoe UI Light" />
                 </Border>
                 <TextBlock Grid.Row="1" Grid.Column="6" MinWidth="30" />
-                <Border Grid.Row="1" Grid.Column="7" MinWidth="200" Style="{StaticResource BorderStyle}">
+                <Border Grid.Row="1" Grid.Column="7" MinWidth="200" Style="{StaticResource BorderStyle}" Background="#FFAEAEF5">
                     <TextBlock x:Name="west" Margin="10" HorizontalAlignment="Left" FontSize="22" FontFamily="Segoe UI Light" />
                 </Border>
             </Grid>
