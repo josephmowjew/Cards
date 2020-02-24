@@ -64,7 +64,7 @@ namespace MathsOperators
             int lhs = int.Parse(lhsOperand.Text);
             int rhs = int.Parse(rhsOperand.Text);
             int outcome = checked( lhs +  rhs);
-            // TODO: Add rhs to lhs and store the result in outcome
+            //Add rhs to lhs and store the result in outcome
             expression.Text = $"{lhsOperand.Text} + {rhsOperand.Text}";
             result.Text = outcome.ToString();
         }
@@ -74,7 +74,7 @@ namespace MathsOperators
             int lhs = int.Parse(lhsOperand.Text);
             int rhs = int.Parse(rhsOperand.Text);
             int outcome = checked(rhs - lhs);
-            // TODO: Subtract rhs from lhs and store the result in outcome
+            //Subtract rhs from lhs and store the result in outcome
             expression.Text = $"{lhsOperand.Text} - {rhsOperand.Text}";
             result.Text = outcome.ToString();
         }
@@ -84,7 +84,7 @@ namespace MathsOperators
             int lhs = int.Parse(lhsOperand.Text);
             int rhs = int.Parse(rhsOperand.Text);
             int outcome = checked(lhs * rhs);
-            // TODO: Multiply lhs by rhs and store the result in outcome
+            //Multiply lhs by rhs and store the result in outcome
             expression.Text = $"{lhsOperand.Text} * {rhsOperand.Text}";
             result.Text = outcome.ToString();
         }
@@ -94,7 +94,7 @@ namespace MathsOperators
             int lhs = int.Parse(lhsOperand.Text);
             int rhs = int.Parse(rhsOperand.Text);
             int outcome = checked(lhs/rhs);
-            // TODO: Divide lhs by rhs and store the result in outcome
+            //Divide lhs by rhs and store the result in outcome
             expression.Text = $"{lhsOperand.Text} / {rhsOperand.Text}";
             result.Text = outcome.ToString();
         }
@@ -104,7 +104,7 @@ namespace MathsOperators
             int lhs = int.Parse(lhsOperand.Text);
             int rhs = int.Parse(rhsOperand.Text);
             int outcome = checked(lhs% rhs);
-            // TODO: Work out the remainder after dividing lhs by rhs and store the result in outcome
+            //Work out the remainder after dividing lhs by rhs and store the result in outcome
             expression.Text = $"{lhsOperand.Text} % {rhsOperand.Text}";
             result.Text = outcome.ToString();
         }
