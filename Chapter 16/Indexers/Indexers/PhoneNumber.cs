@@ -17,8 +17,10 @@ namespace Indexers
 
 		public override int GetHashCode() => this.number.GetHashCode();
 
+       
 		public override bool Equals(object other) => (other is PhoneNumber) && Equals((PhoneNumber)other);
 		
+        
 		public bool Equals(PhoneNumber other) => this.number == other.number;
 	}
 }
